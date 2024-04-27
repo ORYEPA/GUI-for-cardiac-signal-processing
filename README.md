@@ -1,6 +1,6 @@
-## GUI for cardiac signal processing
+# GUI for cardiac signal processing
 
-# User interface for the analysis of biological signals from the heart:
+### User interface for the analysis of biological signals from the heart:
 
 
 
