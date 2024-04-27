@@ -1,5 +1,8 @@
 # GUI for cardiac signal processing
 
+
+The fundamental purpose of this project is to carry out an exhaustive analysis of cardiac signals. This study aims to deepen the understanding of the characteristics and behaviors of these signals, with the objective of advancing the diagnosis and monitoring of cardiac conditions by means of precision technical and analytical methods.
+
 ### User interface for the analysis of biological signals from the heart:
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/37b84440-fd46-4267-bfc1-6e1b45e68411)
