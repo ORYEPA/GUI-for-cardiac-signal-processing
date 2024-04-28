@@ -17,7 +17,11 @@ In the framework of the present project, in addition to the intrinsic signal ana
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/7c51a728-2a8c-4956-a561-3fc28478c2fc)
 
+Electrocardiogram (ECG) signal normalization is an essential process in cardiac data processing, the primary objective of which is to standardize the amplitude of recorded signals to facilitate comparative analysis and automatic detection of abnormalities. This procedure adjusts for amplitude variations that may be due to differences in instrumentation, electrode placement or individual physiological characteristics of patients. By applying normalization techniques, a uniform data format is achieved, which is crucial for the implementation of analysis and diagnostic algorithms in cardiac monitoring systems and telemedicine applications. In addition, normalization significantly improves the accuracy and reliability of epidemiological and clinical studies that rely on the interpretation of large volumes of ECG data.
+
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/adf771fc-24c9-46e2-88fb-997fb1883444)
+
+The Fast Fourier Transform (FFT) of the electrocardiogram (ECG) signal is a fundamental mathematical tool in frequency analysis that allows decomposing this temporal signal into its frequency components. This process is indispensable for identifying and quantifying the different cardiac rhythms and anomalies that can manifest themselves in the specific frequencies of the signal. The application of FFT in the context of ECG facilitates the detection of arrhythmias, ischemia and other cardiac disorders by providing a clear and accurate representation of the energy distributed over various frequency bands. Furthermore, the computational efficiency of FFT makes it particularly suitable for real-time analysis, as well as for implementation in portable cardiac monitoring devices, resulting in a valuable tool in both clinical practice and cardiovascular research.
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/76f3fd61-3a14-4191-8056-278d70c4bcd8)
 
