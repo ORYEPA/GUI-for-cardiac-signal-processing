@@ -46,5 +46,7 @@ The mean voltage index of an ECG signal holds significant importance in assessin
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/5d9ccfa1-c28f-43a9-bc87-8e6c3f5bde41)
 
 
+Converting an ECG signal into a digital format is crucial for numerous reasons in modern healthcare. Firstly, digitizing the ECG signal allows for precise measurement and analysis, enabling clinicians to accurately assess various aspects of cardiac function. Digital signal processing techniques can be applied to enhance the signal quality, remove noise, and extract relevant features, such as peaks and intervals, with greater accuracy than analog methods.
+
 
 
