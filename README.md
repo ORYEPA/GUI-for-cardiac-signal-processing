@@ -25,6 +25,8 @@ The Fast Fourier Transform (FFT) of the electrocardiogram (ECG) signal is a fund
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/76f3fd61-3a14-4191-8056-278d70c4bcd8)
 
+The Power Spectral Density (PSD) in an Electrocardiogram (EKG or ECG) refers to the distribution of power or energy across different frequency components within the EKG signal. In a typical EKG signal, the PSD reveals distinct peaks and patterns corresponding to various physiological phenomena, such as heart rate and rhythm. The PSD analysis helps in understanding the frequency characteristics of the cardiac signal, offering insights into the underlying mechanisms of cardiac function and abnormalities. Specifically, it can highlight frequency components associated with normal sinus rhythm, arrhythmias, or other cardiac conditions. 
+
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/e19edc6e-1fb7-4504-b93f-21e5febcbae2)
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/b845cf16-9531-4e8c-8025-38b5ba4ff1d2)
