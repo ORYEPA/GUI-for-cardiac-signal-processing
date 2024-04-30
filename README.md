@@ -39,6 +39,8 @@ Understanding the peaks in an ECG signal is fundamental for assessing cardiac fu
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/10cd2f56-d7a1-4244-b25c-4c900bbd49aa)
 
+The mean voltage index of an ECG signal holds significant importance in assessing cardiac health and diagnosing various heart conditions. It provides a measure of the average electrical activity of the heart over time, reflecting the overall amplitude and direction of the ECG waveform. By calculating the mean voltage index, clinicians can gain insights into the general magnitude of cardiac electrical activity, which can indicate the presence of hypertrophy, conduction abnormalities, or myocardial damage.
+
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/fbb54824-c15e-408e-a2fb-c740bc32db4f)
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/6b764555-8365-4d10-a33e-b71b18cedda9)
