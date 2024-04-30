@@ -33,7 +33,6 @@ The Power Spectral Density (PSD) in an Electrocardiogram (EKG or ECG) refers to 
 
 Understanding the peaks and waves of an ECG, including the R and S waves, is crucial for interpreting cardiac health and diagnosing abnormalities. The R wave represents ventricular depolarization, signifying the contraction of the ventricles, while the S wave indicates the completion of ventricular depolarization. Identifying the characteristics of these waves aids in determining the regularity of heart rhythm, detecting arrhythmias, and assessing myocardial function. For instance, abnormalities in the R wave, such as its amplitude or duration, can suggest myocardial infarction or ventricular hypertrophy. Similarly, changes in the S wave morphology may indicate conduction defects or electrolyte imbalances. Thus, a comprehensive understanding of ECG waves, including the R and S waves, is essential for clinicians to make accurate diagnoses and provide appropriate treatment for cardiac patients.
 
-![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/41aa39c4-47f8-4f8d-bed3-f33fe9f59610)
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/7d742183-7368-4090-b3ed-390eb775b879)
 
