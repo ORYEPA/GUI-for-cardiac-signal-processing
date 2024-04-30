@@ -35,6 +35,7 @@ Understanding the peaks and waves of an ECG, including the R and S waves, is cru
 
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/7d742183-7368-4090-b3ed-390eb775b879)
+Understanding the peaks in an ECG signal is fundamental for assessing cardiac function and diagnosing various heart conditions. Each peak in the ECG waveform corresponds to specific events in the cardiac cycle, providing critical information about the electrical activity of the heart. For instance, the P wave represents atrial depolarization, indicating the initiation of atrial contraction; the QRS complex signifies ventricular depolarization, reflecting the onset of ventricular contraction; and the T wave indicates ventricular repolarization, marking the recovery of the ventricles. By analyzing the morphology, amplitude, and duration of these peaks, clinicians can identify abnormalities such as arrhythmias, ischemia, myocardial infarction, and conduction disorders. Moreover, monitoring changes in peak characteristics over time allows for the assessment of treatment efficacy and disease progression. Therefore, a comprehensive understanding of ECG peaks is essential for clinicians to make accurate diagnoses, formulate treatment plans, and provide optimal care for patients with cardiovascular conditions.
 
 ![image](https://github.com/ORYEPA/GUI-for-cardiac-signal-processing/assets/85662258/10cd2f56-d7a1-4244-b25c-4c900bbd49aa)
 
